@@ -34,13 +34,16 @@ AWS로 배포
 
 
 ## Images
-<상품 목록 페이지>
+    <상품 목록 페이지>
 ![item_list](./images/item_list.png)
-<상품 등록 페이지>
+
+    <상품 등록 페이지>
 ![item_add](./images/item_add.png)
-<상품 상세 페이지>
+
+    <상품 상세 페이지>
 ![item_details](./images/item_details.png)
-<상품 서비스 흐름, PRG 패턴 적용>
+
+    <상품 서비스 흐름, PRG 패턴 적용>
 ![PRG](./images/PRG.png)
 
 ---
